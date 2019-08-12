@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorText">#000</color>
+    <color name="colorTextHint">#51d8c7</color>
+    <color name="white">#fff</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="graylight">#FAFAFA</color>
+    <color name="transparent">#00000000</color>
+
+    <!--Colors for button style in introScreen-->
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+    <!--Colors for tab and screen text in introScreen-->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+</resources>
